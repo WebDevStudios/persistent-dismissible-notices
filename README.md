@@ -1,5 +1,7 @@
+[![WebDevStudios. Your Success is Our Mission.](https://webdevstudios.com/wp-content/uploads/2024/02/wds-banner.png)](https://webdevstudios.com/contact/)
+
 # Persistent Dismissible Notices
-Persistent Dismissible Notices is a free WordPress® plugin that enhances the handling of admin notices by making them dismissible and ensuring their dismissal persists across sessions. 
+Persistent Dismissible Notices is a free WordPress® plugin that enhances the handling of admin notices by making them dismissible and ensuring their dismissal persists across sessions.
 
 If you've ever been frustrated by repeatedly dismissing the same notices, this plugin is for you. It stores the dismissal state for logged-in users, improving the user experience and decluttering your admin dashboard.
 
@@ -13,7 +15,7 @@ If you've ever been frustrated by repeatedly dismissing the same notices, this p
 
 ## Why It's Useful
 
-Admin notices are essential for communicating important information, but they can clutter the WordPress® dashboard when they lack a dismissal option or reappear on every page load. 
+Admin notices are essential for communicating important information, but they can clutter the WordPress® dashboard when they lack a dismissal option or reappear on every page load.
 
 Persistent Dismissible Notices solves this problem by ensuring:
 
@@ -87,6 +89,11 @@ If you encounter any issues or have questions, please open a GitHub issue 🙏
 
 ## License
 
-This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html). 
+This plugin is licensed under the [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html).
 
 You are free to use, modify, and distribute it under the same terms.
+
+## Acknowledgments
+
+- Special thanks to [Robert DeVore](https://github.com/robertdevore/) for the initial creation and maintenance of this plugin.
+- Maintained by [WebDevStudios](https://webdevstudios.com).
